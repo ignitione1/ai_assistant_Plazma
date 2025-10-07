@@ -7,6 +7,8 @@ Plazma Siberia AI Assistant — это интеллектуальный Telegram
 
 ![Телеграм-бот](https://github.com/ignitione1/ai_assistant_Plazma/blob/main/%D1%82%D0%B5%D0%BB.jpg?raw=true)
 
+![Google Calendar](https://github.com/ignitione1/ai_assistant_Plazma/blob/main/%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C.jpg?raw=true)
+
 Проект решает ключевые задачи:
 
 Снижение нагрузки на администраторов
